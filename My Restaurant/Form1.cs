@@ -16,7 +16,9 @@ namespace My_Restaurant
         {
             InitializeComponent();
         }
-
+        
+        //!!!!!
+        //CR: First correct the code, then I will be able to review this class
         
         int CounterChickBtn = 0;
         int CounterEggBtn = 0;

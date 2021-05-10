@@ -8,3 +8,13 @@ C:\Users\User\source\repos\My Restaurant\My Restaurant\obj\Debug\My Restaurant.c
 C:\Users\User\source\repos\My Restaurant\My Restaurant\obj\Debug\My Restaurant.csproj.CoreCompileInputs.cache
 C:\Users\User\source\repos\My Restaurant\My Restaurant\obj\Debug\My Restaurant.exe
 C:\Users\User\source\repos\My Restaurant\My Restaurant\obj\Debug\My Restaurant.pdb
+C:\Users\Owner\Source\Repos\nkomiljon\Restaurant_Task\My Restaurant\bin\Debug\My Restaurant.exe.config
+C:\Users\Owner\Source\Repos\nkomiljon\Restaurant_Task\My Restaurant\bin\Debug\My Restaurant.exe
+C:\Users\Owner\Source\Repos\nkomiljon\Restaurant_Task\My Restaurant\bin\Debug\My Restaurant.pdb
+C:\Users\Owner\Source\Repos\nkomiljon\Restaurant_Task\My Restaurant\obj\Debug\My Restaurant.csprojAssemblyReference.cache
+C:\Users\Owner\Source\Repos\nkomiljon\Restaurant_Task\My Restaurant\obj\Debug\My_Restaurant.Form1.resources
+C:\Users\Owner\Source\Repos\nkomiljon\Restaurant_Task\My Restaurant\obj\Debug\My_Restaurant.Properties.Resources.resources
+C:\Users\Owner\Source\Repos\nkomiljon\Restaurant_Task\My Restaurant\obj\Debug\My Restaurant.csproj.GenerateResource.cache
+C:\Users\Owner\Source\Repos\nkomiljon\Restaurant_Task\My Restaurant\obj\Debug\My Restaurant.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Source\Repos\nkomiljon\Restaurant_Task\My Restaurant\obj\Debug\My Restaurant.exe
+C:\Users\Owner\Source\Repos\nkomiljon\Restaurant_Task\My Restaurant\obj\Debug\My Restaurant.pdb
